@@ -2,7 +2,7 @@ import pandas as pd
 import os
 from sklearn.feature_extraction.text import TfidfVectorizer
 import logging
-#import yaml
+import yaml
 
 # Ensure the "logs" directory exists
 log_dir = 'logs'
